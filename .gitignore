@@ -26,6 +26,9 @@
 *.a
 *.lib
 
+# Swap Files
+*.swp
+
 # Executables
 *.exe
 *.out
